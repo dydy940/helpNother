@@ -1,8 +1,8 @@
-# Welcome to Give And Take!
+# Welcome to HelpNother!
 
 # Introduction
 
-***Give And Take*** is a Open source application that aims to connect two independent people to help "his neighbors".
+***HelpNother*** is a Open source application that aims to connect two independent people to help "his neighbors".
 
 This project was conceived for a university course of the non "computer engineering"
 
@@ -28,11 +28,8 @@ This application is non-profit and aims to help each person in his quotient.
 
 
 
-# Use Project 
 
- Import Code
 
-    git clone https://github.com/omerpaz1/GiveAndTake/
 
 Create Project to [Firebase](https://firebase.google.com/) in a name:
 ***package : com.android.giveandtake*** and change Rules of Realtime Database to :
